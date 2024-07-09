@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## 13: Try catch finally
+![image](https://github.com/ItzelFuentes/IAFC_Portafolio_Evidencias_DDI_GIDS4093/assets/106613946/beb1fa7a-2a98-474b-a478-1b5d02f58003)
+
+![image](https://github.com/ItzelFuentes/IAFC_Portafolio_Evidencias_DDI_GIDS4093/assets/106613946/96b4029f-d202-479c-9133-fb55b9459d5c)
+
