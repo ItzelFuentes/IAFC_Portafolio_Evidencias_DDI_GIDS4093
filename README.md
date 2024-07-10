@@ -21,3 +21,4 @@ Aplicación HelloWorld: hello_world_01
 
 Aplicación YesOrNo: yes_no_app
 
+Las capturas se encuentran en cada README de cada carpeta y estan por numero de ejercicio
