@@ -1,5 +1,3 @@
-# hello_world_1
+## 01:hello_world
 
-## Capturas del proyecto
-
-![imagen](https://github.com/JorgeADnro/Portafolio_de_Evidencias_DDI_GIDS4093_JLAM/assets/106614143/4a6dc612-356d-4418-b7a3-2b01f8390110)
+![image](https://github.com/user-attachments/assets/8f18a88e-635d-4aad-8d90-2526d17c90d2)
