@@ -2,7 +2,7 @@
 
 ## Grupo: GIDS4093
 
-## Ubicacion de cada ejercicio y capturas
+## Ubicación de cada ejercicio y capturas
 Ejercicio 01: [hello_world_1](https://github.com/ItzelFuentes/IAFC_Portafolio_Evidencias_DDI_GIDS4093/tree/main/hello_world_1)
 
 Ejercicio 02-08: Ejercicios_dart/[dart_application_1](https://github.com/ItzelFuentes/IAFC_Portafolio_Evidencias_DDI_GIDS4093/tree/main/Ejercicios_Dart/dart_application_1)
